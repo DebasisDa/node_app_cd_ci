@@ -1,0 +1,25 @@
+{
+  "name": "node_app_cd_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha  tests/test.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebasisDa/node_app_cd_ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebasisDa/node_app_cd_ci/issues"
+  },
+  "homepage": "https://github.com/DebasisDa/node_app_cd_ci#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "expres": "0.0.5",
+    "mocha": "^6.2.2",
+    "supertest": "^4.0.2"
+  }
+}
