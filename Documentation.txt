@@ -20,6 +20,10 @@ Technology Need to implement CD/CI ::
 .......................................................................................
 Documentation: 
 https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c
+
+https://medium.com/faun/aws-ify-a-nodejs-app-with-a-sweet-sprinkle-of-docker-and-ci-cd-with-travis-ci-part-1-56fca1b823b7
+https://medium.com/faun/aws-ify-a-nodejs-app-with-a-sweet-sprinkle-of-docker-and-ci-cd-with-travis-ci-part-2-amazon-ec2-33229140b32c
+https://medium.com/faun/aws-ify-a-nodejs-app-with-a-sweet-sprinkle-of-docker-and-ci-cd-with-travis-ci-part-3-ci-cd-with-4fa5fe719b3c
 ............................................................................................
 .............................................................................................
 
